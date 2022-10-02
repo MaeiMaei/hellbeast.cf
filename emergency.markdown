@@ -16,10 +16,7 @@ For Windows: Search Zerotier, open it, click the orange icon on the tray and con
 For Linux: Run `zerotier-cli join 52b337794f67c301`
 For Android: Open the app, press the plus in the top right, input `52b337794f67c301`
 
-
-Your Status should change to `OK` after a while.
-This setup is only required once unless you delete Zerotier.
-
+You should now be allowed into the network immediately. 
 
 ## XMPP
 
@@ -32,8 +29,7 @@ or
 you can join the public XMPP chat in
 `public@refuge.lust.hellbeast.cf` ([protocol link](xmpp:public@refuge.lust.hellbeast.cf?join))
 
-If you can't connect to the server, I might not be around or awake. Try another time or contact me per email.
-
+If you can't connect to the server, I might not be around or awake. Try another time or contact me per email [here](mailto:mameaeiscutegirl@gmail.com).
 
 <br/><br/>
 
@@ -42,7 +38,9 @@ If you can't connect to the server, I might not be around or awake. Try another 
 
 For the tech nerds,
 I've set up client isolation for the Zerotier Network, but I cannot guarantee anything within there. I recommend you keep your systems up to date and with proper security precautions.
-DS-Lite is torture in 2022.
+
+DS-Lite is torture in 2022 and I beg any German-speaker to support and promote the EU proposal at https://futureu.europa.eu/processes/Digital/f/15/proposals/764
+It's a plaque because of how cheap it is and prevents ordinary people like you and me from hosting at home.
 
 The XMPP server ***does not support s2s due to technical limitations, DO NOT CONNECT PER S2S, CONNECT DIRECTLY.***
 
