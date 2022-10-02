@@ -21,7 +21,7 @@ You should now be allowed into the network immediately.
 ## XMPP
 
 Open your preferred XMPP client ([here if you don't got one](https://xmpp.org/software/clients/), I use Gajim).
-Register an account with an account name that ***I CAN IDENTITFY YOU WITH*** at `lust.hellbeast.cf` (yourusernamehere@lust.hellbeast.cf), if I don't recognize you or you don't register an account after a good while, I'll boot you since you might as well be redteaming.
+Register an account with an account name that ***I CAN IDENTIFY YOU WITH*** at `lust.hellbeast.cf` (yourusernamehere@lust.hellbeast.cf), if I don't recognize you or you don't register an account after a good while, I'll boot you since you might as well be red teaming.
 
 If you're connected, you can contact me by contacting
 `maebeast@lust.hellbeast.cf`
