@@ -29,8 +29,8 @@ robots: NOINDEX # This is a personal site, it feels wrong to have it indexed.
 # Theme
 style: dark
 header_pages:
-- emergency.markdown
-- index.markdown
+- emergency.md
+- index.md
 
 
 # Build settings
