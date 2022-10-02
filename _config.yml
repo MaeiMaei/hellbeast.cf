@@ -31,6 +31,7 @@ style: dark
 header_pages:
 - emergency.md
 - index.md
+- changelog.md
 
 
 # Build settings
