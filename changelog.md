@@ -14,3 +14,7 @@ Yes you. Nerd.
 
 Zerotier Network Access Control is now public.
 Changed Lust page to reflect that.
+
+# 2022-10-03
+Using German Unity day (Tag der deutschen Einheit) to broadcast a message the oppressed people of Iran.
+Down for that day with embedded Youtube player similar to the landing page pre-Limbo.
