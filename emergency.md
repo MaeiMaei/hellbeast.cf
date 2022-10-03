@@ -2,6 +2,10 @@
 layout: page
 title: Lust
 permalink: /Emergency/
+
+meta_title: Hellbeast.cf Lust
+color: "#000000"
+description: XMPP join info, XMPP rules!
 ---
 
 # Entering Lust

@@ -2,6 +2,10 @@
 title: Limbo
 layout: home
 permalink: /
+
+meta_title: Hellbeast.cf
+color: "#000000"
+description: HellLine is active, welcome to Limbo!
 ---
 
 ## Hello world.

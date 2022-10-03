@@ -2,6 +2,10 @@
 layout: page
 title: Changelog
 permalink: /Changelog/
+
+meta_title: Hellbeast.cf Changelog
+color: "#000000"
+description: HellLine is active
 ---
 
 I'll just write these down here since there might be people who stalk this page because they love me that much.
