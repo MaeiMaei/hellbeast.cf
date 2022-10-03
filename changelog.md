@@ -22,3 +22,7 @@ Changed Lust page to reflect that.
 # 2022-10-03
 Using German Unity day (Tag der deutschen Einheit) to broadcast a message for the oppressed people of Iran.
 Down for that day with a embedded Youtube player similar to the landing page pre-Limbo.
+
+Added Meta tags for Discord, links should now embed with info in them. Might expand as much as I need to.
+
+Made the Tasque Manager loop since they're so cute that you should watch them twice.
