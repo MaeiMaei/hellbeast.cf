@@ -33,7 +33,7 @@ More info here:
 <br/><br/>
 
 Here's a Tasque Manager to lighten your mood if I wrecked it, I tend to do that.
-<video width="100%" preload="auto" controls>
+<video width="100%" preload="auto" controls loop>
     <source src="TasqueManager.mp4" type="video/mp4"/>
 </video>
 [source](https://twitter.com/darobrobber/status/1571829540401385479)
