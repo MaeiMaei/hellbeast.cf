@@ -35,7 +35,7 @@ header_pages:
 
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: MaeiMaei/jekyll-theme-console-disc
 plugins:
   - jekyll-feed
 
