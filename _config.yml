@@ -18,11 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My personal hell
+title: Hellbeast
 email: maemaeiscutegirl@gmail.com
+description: My personal little hell.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hellbeast.cf" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: maeimaei
+robots: NOINDEX # This is a personal site, it feels wrong to have it indexed.
+
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
