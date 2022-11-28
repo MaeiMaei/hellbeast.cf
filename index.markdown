@@ -26,7 +26,7 @@ In case you're unsure what to call me or you're queer,
 [pronouns.page](https://en.pronouns.page/@maeimaei)
 
 I create ungodly hacks over at,
-[Github](https://github.com/MaeiMaei)
+[Github](https://github.com/MaeiMaei) and [Gitlab](https://gitlab.com/MaeiMaei)
 
 
 
