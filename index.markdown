@@ -36,9 +36,6 @@ I create ungodly hacks over at,
 <br>
 <br>
 <br>
-<br>
 
 MOTD:
-<video width="100%" preload="auto" controls>
-    <source src="OpenWRT.webm" type="video/webm"/>
-</video>
+![@Val](startcrying.jpg)
