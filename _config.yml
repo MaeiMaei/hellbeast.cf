@@ -28,6 +28,12 @@ robots: NOINDEX # This is a personal site, it feels wrong to have it indexed.
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
+#theme: jekyll-theme-console
+
+# Theme settings
+header_pages:
+- Val.md
+- index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
