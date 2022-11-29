@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title:  "Home"
 ---
+
 
 # Welcome to my personal hell :)
 
@@ -37,5 +39,6 @@ I create ungodly hacks over at,
 <br>
 <br>
 
+
 MOTD:
-![@Val](startcrying.jpg)
+<img src="startcrying.png">
