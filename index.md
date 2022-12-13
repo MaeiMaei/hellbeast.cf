@@ -6,6 +6,9 @@ layout: home
 title:  "Home"
 ---
 
+<meta
+  http-equiv="Content-Security-Policy"
+  content="default-src 'self'; script-src static.cloudflareinsights.com; connect-src cloudflareinsights.com;  script-src 'self' ajax.cloudflare.com; object-src 'none'"/>
 
 # Welcome to my personal hell :)
 

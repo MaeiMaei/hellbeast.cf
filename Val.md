@@ -3,6 +3,11 @@ layout: post
 title:  "About Valorie"
 ---
 
+<meta
+  http-equiv="Content-Security-Policy"
+  content="default-src 'self'; script-src static.cloudflareinsights.com; connect-src cloudflareinsights.com;  script-src 'self' ajax.cloudflare.com; object-src 'none'"/>
+
+
 # Fuck.
 Hi, writing this now is difficult because I still have attachment to you. At least for the you I like.
 It's also a blow to my own pride because I'll have to admit to myself I did something wrong.
